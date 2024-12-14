@@ -4,8 +4,8 @@ class AddNums{
 static void Main(){
 Console.Clear();
 Console.WriteLine("Enter 1st Number:");
-string s1=Console.ReadLine();
-double d1=Convert.ToDouble(s1);
+string s1 = Console.ReadLine();
+double d1 = Convert.ToDouble(s1);
 Console.WriteLine("Enter 2nd number");
 //string s2=Console.ReadLine();
 double d2=double.Parse(Console.ReadLine());
